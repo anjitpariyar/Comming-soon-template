@@ -1,6 +1,6 @@
 # Comming-soon-template
 
-![Comming soon template](https://anjitzero.github.io/Comming-soon-template/images/bg.jpg);
+![Comming soon template](https://anjitzero.github.io/Comming-soon-template/images/ad.png)
 
 ## Download a zip or clone it
 
