@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+  .wrapper {
+    padding: 1em;
+  }
+  .size2 {
+    width: 100px;
+    height: 100px;
+  }
+  .l2-txt1 {
+    font-size: 26px;
+  }
+  .wrap-input100 {
+    width: 270px;
+  }
+}
